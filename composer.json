@@ -1,7 +1,9 @@
 {
-    "name": "waavi/translation",
-    "description": "A Translation package for Laravel 5 with database and cache support",
+    "name": "gcmi/translation",
+    "description": "A Translation package for Laravel 8 with database and cache support",
     "keywords": [
+        "gcmi",
+        "cmi",
         "waavi",
         "laravel-translator",
         "laravel",
