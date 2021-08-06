@@ -14,6 +14,11 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Groupe CMI",
+            "email": "support@gcmi.ca",
+            "homepage": "https://gcmi.ca"
+        },
+        {
             "name": "Waavi",
             "email": "info@waavi.com",
             "homepage": "http://waavi.com"
